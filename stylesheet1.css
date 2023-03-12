@@ -1,0 +1,45 @@
+
+body{
+    background-color: blueviolet;
+}
+.total{
+    position: absolute ;
+    right: 500px;
+    display: inline;
+}
+.color{
+   color: rgb(255, 13, 13);
+}
+.backery1{
+    position: relative;
+    right: 740px;
+}
+    
+.backery{
+    position: absolute;
+    right: 250px;
+}
+.backery2{
+    position: absolute;
+    right: 490px;
+}
+#w1{
+    padding: 20px;
+    padding-bottom: 5px;
+}
+#w2{
+    padding: 20px;
+    padding-bottom: 5px;
+}
+#w3{
+    padding: 20px;
+    padding-bottom: 5px;
+}
+#w4{
+    position: relative;
+    left: 22cm;}
+    .lol{
+        position: relative;
+        right: 100px;
+
+    }
